@@ -1,7 +1,7 @@
 const HomeTemplate = () => {
     return (
-      <div id="home" className="w-full flex ">
-          <h1 className='text-3xl font-bold underline'>Hello Family!</h1>
+      <div id="home" className="w-screen h-screen flex flex-col">
+          <div className='flex w-full justify-center text-5xl my-auto'>Hello Family!</div>
       </div>
     )
   }

@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
 import HomeTemplate from '../components/templates/home/HomeTemplate'
 import { NextPage } from 'next'
 import CommonLayout from '../components/layouts/commonLayout/commonLayout'
